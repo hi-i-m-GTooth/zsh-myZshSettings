@@ -31,6 +31,8 @@
 ## My Theme
   * *(for WSL)* powerline/fonts (install & change default font)
     * https://github.com/powerline/fonts
-  * *(edited for speedup)* agnoster
+  * *(edited for speedup)* agnoster   
+     
+  After changing themes, don't forget to change ```ZSH_THEME``` in ```.zshrc```.
 ## Reference
   * https://blog.xuite.net/chingwei/blog/28082882-%E3%80%90%E7%B3%BB%E7%B5%B1%E3%80%91Ubuntu+%3A+%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%B5%B1%E8%B3%87%E8%A8%8A+by+Command
